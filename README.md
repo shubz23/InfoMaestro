@@ -49,5 +49,32 @@ Click on the Export to CSV button to download employee data.
 - **IT Administrators:** Oversee system access and security.
 - **Educational Institutions:** Maintain detailed records of staff.
 
+<hr/>
+
+<h3 align="center">User Registration</h3>
+
+![User Registration](./Images/Register.png)
+
+<hr/>
+
+<h3 align="center">Home Status</h3>
+
+![Home Status](./Images/Details.png)
+
+<hr/>
+
+<h3 align="center">Search User</h3>
+
+![Search User](./Images/Filter.png)
+
+<hr/>
+
+<h3 align="center">Export CSV File</h3>
+
+![CSV File](./Images/user_CSV.png)
+
+<hr/>
+
+
 
 
