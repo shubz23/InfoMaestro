@@ -2,7 +2,8 @@
 
 #### InfoMaestro is a powerful and versatile CRUD (Create, Read, Update, Delete) application designed to streamline employee information management. Whether you're managing a small team or a large organization, InfoMaestro provides an all-in-one solution to keep your employee data organized, accurate, and accessible.
 
-<img src="(https://github.com/user-attachments/assets/0f6c7f51-96a5-4ef4-86c8-31af513e50fd)" />
+<img src="./Images/CRUD.jpeg" />
+
 
 ## **Key Features** :
 - **Employee Management:** Add, view, update, and delete employee records.
